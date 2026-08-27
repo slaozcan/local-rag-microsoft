@@ -1,0 +1,5 @@
+Uygulama terminalden veya Streamlit arayüzünden çalışır. Kullanıcı soru yazar, sistem belgelerdeki en alakalı parçaları bulur ve cevap üretir.
+
+SQLite, yerel ve hafif bir veritabanıdır. Bu projede doküman parçalarını ve embedding vektörlerini saklamak için kullanılır.
+
+Demo sırasında cevaplanabilir ve cevaplanamaz sorular denenmelidir.

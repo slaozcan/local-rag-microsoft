@@ -1,0 +1,5 @@
+Sistem kullanıcıdan bir soru alır. Soru embedding'e çevrilir. Daha sonra belge parçalarının embedding'leriyle karşılaştırılır.
+
+En alakalı belge parçaları seçilir ve yerel dil modeline bağlam olarak verilir.
+
+Eğer cevap belgelerde yoksa sistem bilmiyorum demelidir.

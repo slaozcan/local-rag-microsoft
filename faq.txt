@@ -1,0 +1,5 @@
+Foundry Local, yapay zeka modellerini kullanıcının cihazında çalıştırmaya yarayan yerel bir AI runtime çözümüdür. İnternet bağlantısı gerektirmeden model çalıştırabilir.
+
+RAG, Retrieval-Augmented Generation anlamına gelir. Önce ilgili belge parçaları bulunur, sonra bu parçalar modelin cevabına bağlam olarak eklenir.
+
+Bu projenin amacı, küçük bir belge koleksiyonundan soru cevaplayabilen yerel bir bilgi asistanı oluşturmaktır.
